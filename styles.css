@@ -1,0 +1,40 @@
+div {
+	background-color: fff;
+}
+
+body {
+	margin: 0 auto;
+	width: 400px;
+	display: block;
+}
+
+.mainHeading {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.generateButton {
+	margin: 0 auto;
+	width: 100px;
+	display: block;
+	font-weight: bold;
+	font-size: 20;
+}
+
+.newDiv {
+	padding: 0px 0px 5px 0px;
+}
+
+.newDiv p {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+
+.newDiv button {
+	margin: 0 auto;
+	width: 100px;
+	display: block;
+}
